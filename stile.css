@@ -1,4 +1,9 @@
 body{
     background-color: black;
     color:chartreuse;
+
+font-family: "Savate", sans-serif;}
+h1 {
+fonte-size: 40px;
 }
+p {font-size: 20px;}
