@@ -3,7 +3,14 @@ body{
     color:chartreuse;
 
 font-family: "Savate", sans-serif;}
-h1 {
-fonte-size: 40px;
+h1{
+    font-size: 40px;
 }
-p {font-size: 20px;}
+
+p {
+    font-size: 20px;
+}
+
+header {
+    font-size: 60px;
+}
